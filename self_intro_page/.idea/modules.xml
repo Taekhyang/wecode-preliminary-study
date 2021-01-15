@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../wecode-preliminary-study/self_intro_page/.idea/self_intro_page.iml" filepath="$PROJECT_DIR$/../wecode-preliminary-study/self_intro_page/.idea/self_intro_page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/self_intro_page.iml" filepath="$PROJECT_DIR$/.idea/self_intro_page.iml" />
     </modules>
   </component>
 </project>
