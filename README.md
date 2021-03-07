@@ -1,2 +1,3 @@
-# wecode-preliminary-study
-preliminary study homework repository for 5 weeks
+# Algorithm Solving
+
+A repository for introducing how I solved *_algorithm problems_*.
